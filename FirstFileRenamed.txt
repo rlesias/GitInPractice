@@ -16,8 +16,4 @@ Update 7
 
 Update 8
 
-<<<<<<< HEAD
-MyChange updated
-=======
-MyChange reupdated
->>>>>>> Updated in branch master
+Update 9
