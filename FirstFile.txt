@@ -10,3 +10,10 @@ Update 4
 
 Update 5
 Parallel Update
+<<<<<<< HEAD
+=======
+
+Update 6
+
+Update 7
+>>>>>>> d34b9b8... Update 7
